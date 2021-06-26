@@ -23,11 +23,13 @@ Neste trabalho foram desenvolvidos os seguintes módulos:
 
 https://github.com/brunocopa/Projeto-Final-BI-Master-PUC-Rio/blob/main/01%20-%20BuscaDadosBiblia.ipynb
 
+obs: A base de dados foi gerada e armazenada para a as análises.  https://github.com/brunocopa/Projeto-Final-BI-Master-PUC-Rio/blob/main/versosBliblicosCompleto.csv
+
 - Algoritmo em Python para análise dos dados bíblicos, criação do modelo word2vec e algumas aplicações com as embeedings criadas (similaridade e projector embeendings). Utilizou-se a bibliotecas NLTK e GENSIN como base para construção dos modelos e análise de textos.
 
 https://github.com/brunocopa/Projeto-Final-BI-Master-PUC-Rio/blob/main/02%20-%20AnaliseDadosBibliaEmbeedings.ipynb
 
-
+obs: O modelo embeeding para ser acessado pelo (https://projector.tensorflow.org/) pelo arquivos gerados word_metadata.tsv e word_tensor.tsv
 ---
 
 Matrícula: 192.671.025
