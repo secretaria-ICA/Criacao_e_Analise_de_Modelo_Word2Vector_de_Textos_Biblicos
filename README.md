@@ -25,11 +25,20 @@ https://github.com/brunocopa/Projeto-Final-BI-Master-PUC-Rio/blob/main/01%20-%20
 
 obs: A base de dados foi gerada e armazenada para a as análises.  https://github.com/brunocopa/Projeto-Final-BI-Master-PUC-Rio/blob/main/versosBliblicosCompleto.csv
 
-- Algoritmo em Python para análise dos dados bíblicos, criação do modelo word2vec e algumas aplicações com as embeedings criadas (similaridade e projector embeendings). Utilizou-se a bibliotecas NLTK e GENSIN como base para construção dos modelos e análise de textos.
+- Algoritmo em Python para análise dos dados bíblicos, criação do modelo word2vec de 100 dimensões e algumas aplicações com as embeedings criadas (similaridade e projector embeendings). Utilizou-se a bibliotecas NLTK e GENSIN como base para construção dos modelos e análise de textos.
 
 https://github.com/brunocopa/Projeto-Final-BI-Master-PUC-Rio/blob/main/02%20-%20AnaliseDadosBibliaEmbeedings.ipynb
 
-obs: O modelo embeeding para ser acessado pelo (https://projector.tensorflow.org/) pelo arquivos gerados word_metadata.tsv e word_tensor.tsv
+obs: O modelo embeeding pode ser acessado pelo (https://projector.tensorflow.org/) pelo arquivos gerados word_metadata.tsv e word_tensor.tsv
+
+https://github.com/brunocopa/Projeto-Final-BI-Master-PUC-Rio/blob/main/word_tensor.tsv
+
+https://github.com/brunocopa/Projeto-Final-BI-Master-PUC-Rio/blob/main/word_metadata.tsv
+
+obs: O modelo word2vec de 100 dimensões também foi gravado e disponibilizado. 
+
+https://github.com/brunocopa/Projeto-Final-BI-Master-PUC-Rio/blob/main/bliblia-100.model
+
 ---
 
 Matrícula: 192.671.025
