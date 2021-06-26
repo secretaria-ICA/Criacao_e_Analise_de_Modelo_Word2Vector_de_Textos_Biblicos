@@ -1,17 +1,19 @@
-# Criação Modelo Word2Vector de Textos Bíblicos 
+# Criação e Análise de Modelo Word2Vector de Textos Bíblicos 
 
-#### Aluno: Bruno Cordeiro Paes (https://github.com/rafaelsantos-zz).
+#### Aluno: Bruno Cordeiro Paes (https://github.com/brunocopa).
 #### Orientador: Felipe Borges(https://github.com/FelipeBorgesC).
 
 ---
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-- (https://github.com/rafaelsantos-zz/Projeto-Final-BI-Master-PUC-Rio). 
+- (https://github.com/brunocopa/Projeto-Final-BI-Master-PUC-Rio). 
 
 ---
 
 ### Resumo
+
+
 
 Atualmente, para solicitação de reembolso médico (modalidade livre escolha), o usuário de posse da nota fiscal, necessita entrar num site da operadora do plano de saúde, digitar as diversas informações solicitadas (que constam na nota fiscal e que ao digitá-las, pode errar e ocasionar recusa do pedido de reembolso) e submetê-las para realizar a solicitação de reembolso.
 
