@@ -19,7 +19,7 @@ Atualmente, o algoritmo Word2Vec é o método mais eficiente para construção d
 A proposta deste trabalho foi criar embeddings a partir do método word2vec de textos bíblicos e realizar uma análise dos dados bíblicos e de similaridade e visualização das embeddings.
 
 Neste trabalho foram desenvolvidos os seguintes módulos:
-- Algoritmo em Python para obteção dos dados dos versículos bíblicos utilizando a API https://bibleapi.co/ (bíblia digital). 
+- Algoritmo em Python para obtenção dos dados dos versículos bíblicos utilizando a API https://bibleapi.co/ (bíblia digital). 
 
 https://github.com/brunocopa/Projeto-Final-BI-Master-PUC-Rio/blob/main/01%20-%20BuscaDadosBiblia.ipynb
 
